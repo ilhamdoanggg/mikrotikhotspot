@@ -7,3 +7,4 @@ and make sure you have add profile and algoritm about an employe like manager, t
 
 # License
 MIT License (c) 2016 [ilhamdoanggg](github.com/ilhamdoanggg)
+:octocat: 
